@@ -4,7 +4,7 @@
 
 # Skills
 Programming Languages
-![javascript-original](https://github.com/webkoob/bahoshan-vite/assets/118796154/c25c5959-4cdc-49dc-93fa-1374687eeeb7)
+
 
 Frontend Technologies
 
