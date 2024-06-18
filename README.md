@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 # Skills
 Programming Languages
 
-![js-php](https://github.com/webkoob/bahoshan-vite/assets/118796154/96f2c582-191f-4cab-995b-d411fcf2bae9)
+![js-php](https://github.com/webkoob/bahoshan-vite/assets/118796154/d763adee-6a98-4b6e-9232-86d5f3b3de55)
 
 Frontend Technologies
 
