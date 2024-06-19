@@ -12,3 +12,5 @@ Frontend Technologies
 
 ![react next angular](https://github.com/webkoob/webkoob/assets/118796154/f84ddd95-4a13-456a-bb31-45ce3386722c)
 
+Backend Technologies
+
