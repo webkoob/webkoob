@@ -10,5 +10,5 @@ Programming Languages
 
 Frontend Technologies
 
-![react next angular](https://github.com/webkoob/webkoob/assets/118796154/5a44fc21-1a85-4b20-9e67-e16f4840e223)
+![react next angular](https://github.com/webkoob/webkoob/assets/118796154/f84ddd95-4a13-456a-bb31-45ce3386722c)
 
