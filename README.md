@@ -14,3 +14,8 @@ Frontend Technologies
 
 Backend Technologies
 
+
+
+Database & Tools
+
+![database](https://github.com/webkoob/bahoshan-vite/assets/118796154/530f03fe-ba63-4bca-bfb4-c3115395e5ac)
